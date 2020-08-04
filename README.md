@@ -1,4 +1,4 @@
-# MyParcels
+# MyParcels - Archived
 This is the official repository of MyParcels Project. Developer by Alessandro Caldonazzi
 
 MyParcels (beta)
